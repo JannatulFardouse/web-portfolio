@@ -55,6 +55,7 @@ section{
         box-shadow: 10px 10px 40px gray;
         border-radius: 10px;
         height: 70%;
+        background-color: white;
         
     }
     #london{
@@ -64,6 +65,6 @@ section{
     }
     #progress{
         border-left: 7px solid;
-    border-image: linear-gradient(180deg, Lightblue, blue);
+    border-image: linear-gradient(180deg, cyan, blue);
     border-image-slice: 1;
     }
