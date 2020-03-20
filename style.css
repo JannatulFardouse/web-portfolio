@@ -8,8 +8,14 @@ h1 {
 h2{
     font-size: 40px;
 }
+h2:hover{
+color: indigo;
+}
 p{
     color: dimgray;
+}
+p:hover{
+    color: rgb(216, 74, 9);
 }
 .orange-highlight{
     color: #ff7b00fd;
@@ -71,4 +77,7 @@ section{
     footer p{
         text-align: center;
         font-size: small;
+    }
+    footer p:hover{
+        color: blue;
     }
